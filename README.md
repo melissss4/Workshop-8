@@ -7,7 +7,7 @@ API’s we can use:
 ![Screen Shot 2025-01-27 at 1 34 17 PM](https://github.com/user-attachments/assets/93f0b9e6-cc3e-47ff-b90d-aeb59d0b4a77)
 
 
-We are using JSON (the javascript response type)
+We are using JSON (the javascript response type) 
 The base of what we need to work with api’s
 
 ![Screen Shot 2025-01-27 at 1 34 44 PM](https://github.com/user-attachments/assets/bf8c6cd3-de29-42a6-8951-68aae7a0cf39)
