@@ -12,7 +12,7 @@ function setup() {
 }
 
 function draw() {
-  background(220);
+  background(210, 200,0);
   
   if (img) {
     image(img, 50, 50, 300, 300);
